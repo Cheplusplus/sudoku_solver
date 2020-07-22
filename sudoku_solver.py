@@ -66,9 +66,3 @@ class SudokuSolver:
                 self.stack.pop()
         return self.board
 
-
-
-
-
-if __name__ == '__main__':
-    main()
