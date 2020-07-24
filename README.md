@@ -2,7 +2,7 @@
 
 SudokuSolver() creates a new solver object.
 
-The new_board() method takes a 9x9 array as its argument and sets the instances board to the list.
+The new_board() method takes a 9x9 array as its argument and sets the board.
 
 The solve() method returns a solved board as a 9x9 array.
 
